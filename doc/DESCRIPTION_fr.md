@@ -1,0 +1,1 @@
+BreezeWiki supprime les publicités, les vidéos et le contenu suggéré, vous laissant avec une page propre qui ne ralentit pas votre appareil et n'utilise pas vos données.
