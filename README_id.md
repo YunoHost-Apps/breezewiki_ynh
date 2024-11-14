@@ -18,7 +18,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 BreezeWiki removes ads, videos, and suggested content, leaving you with a clean page that doesn't slow down your device or use up your data.
 
-**Versi terkirim:** 1.0~ynh1
+**Versi terkirim:** 1.0~ynh2
 
 ## Tangkapan Layar
 

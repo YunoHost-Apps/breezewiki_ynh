@@ -18,7 +18,7 @@ It shall NOT be edited by hand.
 
 BreezeWiki removes ads, videos, and suggested content, leaving you with a clean page that doesn't slow down your device or use up your data.
 
-**Shipped version:** 1.0~ynh1
+**Shipped version:** 1.0~ynh2
 
 ## Screenshots
 

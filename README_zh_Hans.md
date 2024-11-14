@@ -18,7 +18,7 @@
 
 BreezeWiki removes ads, videos, and suggested content, leaving you with a clean page that doesn't slow down your device or use up your data.
 
-**分发版本：** 1.0~ynh1
+**分发版本：** 1.0~ynh2
 
 ## 截图
 
