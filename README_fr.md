@@ -18,7 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 BreezeWiki supprime les publicités, les vidéos et le contenu suggéré, vous laissant avec une page propre qui ne ralentit pas votre appareil et n'utilise pas vos données.
 
-**Version incluse :** 1.0~ynh1
+**Version incluse :** 1.0~ynh2
 
 ## Captures d’écran
 
