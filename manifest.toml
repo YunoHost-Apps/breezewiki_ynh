@@ -7,7 +7,7 @@ name = "BreezeWiki"
 description.en = "Alternative frontend for Fandom"
 description.fr = "Interface alternative pour Fandom"
 
-version = "1.0~ynh2"
+version = "1.0~ynh3"
 
 maintainers = ["eric-G"]
 
@@ -18,7 +18,8 @@ admindoc = "https://docs.breezewiki.com/index.html"
 code = "https://gitdab.com/cadence/breezewiki"
 
 [integration]
-yunohost = ">= 11.2.30"
+yunohost = ">= 12.0.9"
+helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
 
