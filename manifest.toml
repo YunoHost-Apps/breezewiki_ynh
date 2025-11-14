@@ -7,7 +7,7 @@ name = "BreezeWiki"
 description.en = "Alternative frontend for Fandom"
 description.fr = "Interface alternative pour Fandom"
 
-version = "1.0~ynh3"
+version = "1.0~ynh4"
 
 maintainers = ["eric-G"]
 
@@ -45,7 +45,7 @@ ram.runtime = "50M"
 
     [resources.sources.main]
     url = "https://docs.breezewiki.com/files/breezewiki-dist.tar.gz"
-    sha256 = "3d8fa1eb32e419031c32b95c075e6b6d4dfa6e6eeb2804222736b55c0c61b68c"
+    sha256 = "86ac9fa71b22856eb6fc13ee35be2d4d17ce1a1a3c04fea5f62b61e3424bf2f3"
 
     #autoupdate.strategy = "latest_github_tag"
 
