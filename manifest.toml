@@ -18,13 +18,12 @@ admindoc = "https://docs.breezewiki.com/index.html"
 code = "https://gitdab.com/cadence/breezewiki"
 
 [integration]
-yunohost = ">= 12.0.9"
+yunohost = ">= 12.1.17"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
 
 ldap = false
-
 sso = false
 
 disk = "50M"
@@ -45,9 +44,7 @@ ram.runtime = "50M"
 
     [resources.sources.main]
     url = "https://docs.breezewiki.com/files/breezewiki-dist.tar.gz"
-    sha256 = "86ac9fa71b22856eb6fc13ee35be2d4d17ce1a1a3c04fea5f62b61e3424bf2f3"
-
-    #autoupdate.strategy = "latest_github_tag"
+    sha256 = "76b0ed5b792c3b1a100be487c0ffd574ef868f691706c146053a2960da6cf08e"
 
     [resources.system_user]
 
