@@ -9,7 +9,7 @@ description.fr = "Interface alternative pour Fandom"
 
 version = "1.0~ynh4"
 
-maintainers = ["eric-G"]
+maintainers = ["eric_G"]
 
 [upstream]
 license = "AGPL-3.0-only"
