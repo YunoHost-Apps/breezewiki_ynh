@@ -1,5 +1,5 @@
 [Unit]
-Description=Breezewiki
+Description=Breezewiki: Alternative frontend for Fandom
 After=network.target
 
 [Service]

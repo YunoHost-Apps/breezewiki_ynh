@@ -7,7 +7,7 @@ name = "BreezeWiki"
 description.en = "Alternative frontend for Fandom"
 description.fr = "Interface alternative pour Fandom"
 
-version = "1.0~ynh3"
+version = "1.0~ynh4"
 
 maintainers = ["eric-G"]
 
@@ -18,13 +18,12 @@ admindoc = "https://docs.breezewiki.com/index.html"
 code = "https://gitdab.com/cadence/breezewiki"
 
 [integration]
-yunohost = ">= 12.0.9"
+yunohost = ">= 12.1.38"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
 
 ldap = false
-
 sso = false
 
 disk = "50M"
@@ -45,9 +44,7 @@ ram.runtime = "50M"
 
     [resources.sources.main]
     url = "https://docs.breezewiki.com/files/breezewiki-dist.tar.gz"
-    sha256 = "3d8fa1eb32e419031c32b95c075e6b6d4dfa6e6eeb2804222736b55c0c61b68c"
-
-    #autoupdate.strategy = "latest_github_tag"
+    sha256 = "1c122ec05f8ddc18a5a016187f2046e795ac4c065584f235486bb7d70dfb7acb"
 
     [resources.system_user]
 
@@ -57,3 +54,6 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.ports]
+    
+    [resources.apt]
+    packages = "libpango1.0-dev"
