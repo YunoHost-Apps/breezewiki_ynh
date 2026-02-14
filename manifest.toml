@@ -18,7 +18,7 @@ admindoc = "https://docs.breezewiki.com/index.html"
 code = "https://gitdab.com/cadence/breezewiki"
 
 [integration]
-yunohost = ">= 12.1.17"
+yunohost = ">= 12.1.38"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
