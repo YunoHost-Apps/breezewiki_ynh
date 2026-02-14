@@ -44,7 +44,7 @@ ram.runtime = "50M"
 
     [resources.sources.main]
     url = "https://docs.breezewiki.com/files/breezewiki-dist.tar.gz"
-    sha256 = "76b0ed5b792c3b1a100be487c0ffd574ef868f691706c146053a2960da6cf08e"
+    sha256 = "1c122ec05f8ddc18a5a016187f2046e795ac4c065584f235486bb7d70dfb7acb"
 
     [resources.system_user]
 
